@@ -22,7 +22,7 @@ test.describe('Challenge', () => {
 
     }))
 
-    test.only('Get challenges', async ({api}, testInfo) => {
+    test('Get challenges', async ({api}, testInfo) => {
 
 
         let body = await api.challenges.get(testInfo, token);
