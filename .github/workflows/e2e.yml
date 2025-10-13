@@ -27,8 +27,8 @@ jobs:
         run: npm run allureFile
         if: always()
         continue-on-error: true
-      - name: show report
-        run: npm run allureView
+#      - name: show report
+#        run: npm run allureView
       - uses: actions/upload-artifact@v4
         if: ${{ !cancelled() }}
         continue-on-error: true
