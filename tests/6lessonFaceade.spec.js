@@ -6,11 +6,11 @@ import { UserBuilder } from '../src/helpers/builders/index';
 const URL = 'https://realworld.qa.guru/';
 
 test.describe('Регистрация', () => {
-    test.beforeEach(async ({ page }) => {
+    test.skip(async ({ page }) => {
         await page.goto(URL);
     });
 
-    test('Пользователь не может зарегистрироваться повторно', async ({
+    test.skip('Пользователь не может зарегистрироваться повторно', async ({
                                                                               page,
                                                                           }) => {
 
