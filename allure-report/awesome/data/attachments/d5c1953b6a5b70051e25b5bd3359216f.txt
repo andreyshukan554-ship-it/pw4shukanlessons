@@ -1,0 +1,35 @@
+{
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': '*',
+  'access-control-allow-methods': '*',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': '*',
+  'content-type': 'text/html;charset=utf-8',
+  date: 'Wed, 01 Oct 2025 16:34:34 GMT',
+  location: '/gui/challenges/fc485497-8d24-48f3-ab1b-2dd99c998e5d',
+  nel: '{"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}',
+  'report-to': '{"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=mCwJ5aUZTFHPPwH32mfo47JBTqqx7VMpCdyfvhaIl1I%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1759336474"}],"max_age":3600}',
+  'reporting-endpoints': 'heroku-nel="https://nel.heroku.com/reports?s=mCwJ5aUZTFHPPwH32mfo47JBTqqx7VMpCdyfvhaIl1I%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759336474"',
+  server: 'Heroku',
+  via: '1.1 heroku-router',
+  'x-challenger': 'fc485497-8d24-48f3-ab1b-2dd99c998e5d',
+  'content-length': '0'
+}
+APIResponse: 200 OK
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Headers: *
+  Access-Control-Allow-Methods: *
+  Access-Control-Allow-Origin: *
+  Access-Control-Expose-Headers: *
+  Content-Type: application/json
+  Date: Wed, 01 Oct 2025 16:34:34 GMT
+  Location: /gui/challenges/fc485497-8d24-48f3-ab1b-2dd99c998e5d
+  Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+  Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=mCwJ5aUZTFHPPwH32mfo47JBTqqx7VMpCdyfvhaIl1I%3D\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\u0026ts=1759336474"}],"max_age":3600}
+  Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=mCwJ5aUZTFHPPwH32mfo47JBTqqx7VMpCdyfvhaIl1I%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759336474"
+  Server: Heroku
+  Via: 1.1 heroku-router
+  X-Challenger: fc485497-8d24-48f3-ab1b-2dd99c998e5d
+  X-Robots-Tag: noindex
+  Transfer-Encoding: chunked
+201

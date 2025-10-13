@@ -1,0 +1,5 @@
+{
+  email: 'Betsy.Bradtke-Hills@gmail.com',
+  password: 'O93ESyw1ZU',
+  name: 'Mr. Sammy Schmeler'
+}

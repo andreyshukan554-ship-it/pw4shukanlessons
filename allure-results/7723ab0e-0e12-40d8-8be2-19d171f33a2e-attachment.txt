@@ -1,0 +1,17 @@
+{
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': '*',
+  'access-control-allow-methods': '*',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': '*',
+  'content-type': 'text/html;charset=utf-8',
+  date: 'Wed, 01 Oct 2025 16:46:32 GMT',
+  location: '/gui/challenges/a39382c1-bf14-4347-9a56-171a191e8948',
+  nel: '{"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}',
+  'report-to': '{"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=I8RKZfFkBE5vO1xMQL7OJmh59kSKmdJXGz0zvaxgJPI%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1759337192"}],"max_age":3600}',
+  'reporting-endpoints': 'heroku-nel="https://nel.heroku.com/reports?s=I8RKZfFkBE5vO1xMQL7OJmh59kSKmdJXGz0zvaxgJPI%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759337192"',
+  server: 'Heroku',
+  via: '1.1 heroku-router',
+  'x-challenger': 'a39382c1-bf14-4347-9a56-171a191e8948',
+  'content-length': '0'
+}

@@ -1,0 +1,5 @@
+{
+  email: 'Darian.Stehr@yahoo.com',
+  password: 'NLe5vaFz_m',
+  name: 'Ron Reynolds'
+}

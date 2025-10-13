@@ -1,0 +1,16 @@
+APIResponse: 201 Created
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Headers: *
+  Access-Control-Allow-Methods: *
+  Access-Control-Allow-Origin: *
+  Access-Control-Expose-Headers: *
+  Content-Type: text/html;charset=utf-8
+  Date: Wed, 01 Oct 2025 15:50:03 GMT
+  Location: /gui/challenges/39e2c8bb-706c-413b-8743-4b1369057f7d
+  Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+  Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=eJJEIQVewJ8dmkW44HDzwx3UHlljudqcjXtMVOZNH60%3D\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\u0026ts=1759333803"}],"max_age":3600}
+  Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=eJJEIQVewJ8dmkW44HDzwx3UHlljudqcjXtMVOZNH60%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759333803"
+  Server: Heroku
+  Via: 1.1 heroku-router
+  X-Challenger: 39e2c8bb-706c-413b-8743-4b1369057f7d
+  Content-Length: 0

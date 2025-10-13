@@ -1,0 +1,5 @@
+{
+  email: 'Alfredo.Kulas@gmail.com',
+  password: 'm73V3MyTwD',
+  name: 'Jesus Stark'
+}

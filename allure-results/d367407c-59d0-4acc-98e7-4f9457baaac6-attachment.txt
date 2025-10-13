@@ -1,0 +1,5 @@
+{
+  email: 'Nathan_Zemlak68@gmail.com',
+  password: 'FzSRR8M1Mk',
+  name: 'Lamar Carter'
+}

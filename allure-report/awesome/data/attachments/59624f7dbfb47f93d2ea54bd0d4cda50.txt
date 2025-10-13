@@ -1,0 +1,18 @@
+https://apichallenges.eviltester.com
+{
+  'access-control-allow-credentials': 'true',
+  'access-control-allow-headers': '*',
+  'access-control-allow-methods': '*',
+  'access-control-allow-origin': '*',
+  'access-control-expose-headers': '*',
+  'content-type': 'text/html;charset=utf-8',
+  date: 'Wed, 01 Oct 2025 17:05:39 GMT',
+  location: '/gui/challenges/5cd9cc3c-9edc-4e71-bfa5-8aadb9f60e52',
+  nel: '{"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}',
+  'report-to': '{"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=wJnJVpEW6Ml3ZJu%2FVua3o%2FwxBLulMUzoCPzkrWpOsjI%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1759338339"}],"max_age":3600}',
+  'reporting-endpoints': 'heroku-nel="https://nel.heroku.com/reports?s=wJnJVpEW6Ml3ZJu%2FVua3o%2FwxBLulMUzoCPzkrWpOsjI%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1759338339"',
+  server: 'Heroku',
+  via: '1.1 heroku-router',
+  'x-challenger': '5cd9cc3c-9edc-4e71-bfa5-8aadb9f60e52',
+  'content-length': '0'
+}

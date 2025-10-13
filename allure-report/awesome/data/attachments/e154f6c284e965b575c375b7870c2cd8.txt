@@ -1,0 +1,5 @@
+{
+  email: 'Royal.Terry@hotmail.com',
+  password: 'Nz4836wCqO',
+  name: 'Russell Larson'
+}
