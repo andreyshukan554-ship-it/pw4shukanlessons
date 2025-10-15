@@ -11,12 +11,14 @@ pipeline {
          }
       }
       stage('Allure') {
+         steps {
          allure(
             [
                reportBuildPolicy: 'ALWAYS'
                results:[[path: 'allure-results']]
             ]
          )
+         }
       }
    }
 }
