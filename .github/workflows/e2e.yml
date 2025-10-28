@@ -22,6 +22,9 @@ jobs:
         run: npx playwright install --with-deps
       - name: Запускаем тесты
         run: npm run test
+        env:
+          STEPS: ${{vars.STEP}}
+          SECRETS: ${{secrets.MYSUPERSECRET}}
       #name: генерация отчета
       - name: report generation
         run: npm run allureFile
